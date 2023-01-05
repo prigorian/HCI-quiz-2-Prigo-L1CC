@@ -23,18 +23,15 @@ this page is about news page home that i created. it contains index(html), css.
 ### The challenge
 the process of making this is pretty hard and take alot of time, i almost submit it late because i submit it at 12.59 
 Users should be able to:
+look at my work :)
 
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 
 ![](./screenshot.jpg)
 <img width="1440" alt="Screen Shot 2023-01-05 at 1 02 34 PM" src="https://user-images.githubusercontent.com/114371909/210713461-7ffd8b90-8835-4431-8854-d7101e075af8.png">
 
-Add a screenshot of your solution. Crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -45,13 +42,11 @@ Add a screenshot of your solution. Crop/optimize/edit your image however you lik
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- [Styled Components](https://styled-components.com/) - For styles
+- HTML 5
+- Vs Code
+- Css
+ 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 i learn how to make website faster because there is time limit, a very short time limit.
@@ -83,10 +78,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+Google mostly
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Your Detail 
 
@@ -94,10 +87,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 - StudentID - [2602186011]
 - BINUS Email - [prigorian.pahsya@gmail.com]
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Harman helped me create this website
