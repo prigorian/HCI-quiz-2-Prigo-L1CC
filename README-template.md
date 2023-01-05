@@ -19,9 +19,9 @@ This is a solution to the [News homepage Quiz 2 challenge]
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+this page is about news page home that i created. it contains index(html), css. 
 ### The challenge
-
+the process of making this is pretty hard and take alot of time, i almost submit it late because i submit it at 12.59 
 Users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
@@ -30,6 +30,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
+<img width="1440" alt="Screen Shot 2023-01-05 at 1 02 34 PM" src="https://user-images.githubusercontent.com/114371909/210713461-7ffd8b90-8835-4431-8854-d7101e075af8.png">
 
 Add a screenshot of your solution. Crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
@@ -53,9 +54,7 @@ Add a screenshot of your solution. Crop/optimize/edit your image however you lik
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
+i learn how to make website faster because there is time limit, a very short time limit.
 To see how you can add code snippets, see below:
 
 ```html
@@ -91,9 +90,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Your Detail 
 
-- FullName - [Add your name here]
-- StudentID - [Add your StudentID here]
-- BINUS Email - [Add your BINUS email here]
+- FullName - [prigorian alifa pahsya]
+- StudentID - [2602186011]
+- BINUS Email - [prigorian.pahsya@gmail.com]
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
